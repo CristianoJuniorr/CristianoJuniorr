@@ -1,5 +1,6 @@
 ### Olá! Eu sou Cristiano Júnior 👋
-#### Como estudante de programação, estou constantemente em busca de novas oportunidades de aprendizado, sempre ansioso por adquirir novos conhecimentos e manter-me atualizado no mundo da tecnologia.
+#### Sou formado em Desenvolvimento de Sistemas e atualmente estou no 6º período de Licenciatura em Computação. Ao longo da minha trajetória, busco constantemente ampliar meus conhecimentos e acompanhar as evoluções do mundo tecnológico. Possuo experiência de seis meses como professor de Banco de Dados, o que fortaleceu minhas habilidades de comunicação, didática e domínio técnico.
+#### Como estudante de programação, estou constantemente em busca de novas oportunidades de aprendizado, sempre ansioso por adquirir novos conhecimentos e manter-me atualizado no mundo da tecnologia. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E440F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Cristiano_junior_01)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianojuniorr/)
